@@ -21,7 +21,7 @@ $("#are").click(function(){
     $("#are").slideUp(5000)
 
 });
-$("#KIK").click(function(){
+$("#kik").click(function(){
     // $("#are").append("<H1><font color="goldenrod"> you finised!! this one </font></H1>")
     $("#kik").append("you finished")
     $("#kik").slideUp(5000)
